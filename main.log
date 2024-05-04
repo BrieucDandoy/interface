@@ -1,0 +1,12 @@
+2024-05-02 16:59:36 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 16:59:36 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 16:59:36 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-05-02 16:59:36 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-05-02 17:04:30 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 17:04:30 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 17:04:30 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-05-02 17:04:30 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-05-02 17:05:30 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 17:05:30 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2024-05-02 17:05:30 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2024-05-02 17:05:30 - WARNING - Current `flash-attenton` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
