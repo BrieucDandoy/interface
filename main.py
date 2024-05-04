@@ -12,7 +12,7 @@ logger.addHandler(file_handler)
 
 def main():
     print('Initialisazing ...')
-    manager = input_manager("D:/Documents/model/mistral248M")
+    manager = input_manager("D:/Documents/model/coder")
     print('Enter your input :\n')
     while manager:
         user_input = input()
